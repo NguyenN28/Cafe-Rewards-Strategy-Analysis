@@ -4,9 +4,11 @@ Role: Senior Marketing Analyst
 Tool: Power BI (Power Query, DAX, Data Modeling)
 
 📋 Project Overview
+
 Maven Cafe conducted a 30-day test by sending various promotional offers (BOGO, Discounts, Informational) to rewards members. The goal of this analysis is to identify key customer segments and develop a data-driven strategy for future promotional messaging and targeting.
 
 🎯 Business Objectives:
+
 Identify which offer types (BOGO vs. Discount) drive the highest conversion.
 
 Determine the most effective communication channels (Email, Web, Social, Mobile).
@@ -14,6 +16,7 @@ Determine the most effective communication channels (Email, Web, Social, Mobile)
 Segment customers based on demographics (Age, Income, Gender) to optimize targeting.
 
 🚀 Key Insights
+
 Top Performer: Discount offers emerged as the most successful, achieving a 53% redemption rate.
 
 Channel Efficiency: Social Media and Web channels showed a significantly higher "View-to-Completion" correlation than Email alone.
@@ -41,10 +44,12 @@ Cleaned and formatted JSON-style strings in the Transcript table to extract Offe
 Filtered out "ghost" completions (where a user completed an offer they never actually viewed).
 
 📊 Dashboard Preview
+
 ![Maven Cafe Dashboard](images/customer.png)
 ![Maven Cafe Dashboard](images/offer.png)
 
 💡 Recommendations
+
 Double down on Social: Prioritize BOGO offers through social media channels for the 18–35 age demographic.
 
 Reward Loyalty: Shift the "Discount" strategy to focus on long-term members (3+ years) to maintain high retention.
